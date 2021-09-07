@@ -11,6 +11,7 @@
     ./darwin.nix
     ./direnv.nix
     ./fzf.nix
+    ./git.nix
     ./gotop.nix
     ./home-manager.nix
     ./htop.nix
@@ -22,7 +23,6 @@
   ];
 
   # TODO: programs.gh
-  # TODO: programs.git
   # TODO: programs.gpg
   # TODO: programs.ssh
 }
