@@ -11,6 +11,7 @@
     ./darwin.nix
     ./direnv.nix
     ./fzf.nix
+    ./gotop.nix
     ./home-manager.nix
     ./htop.nix
     ./lazygit.nix
