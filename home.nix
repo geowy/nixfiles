@@ -34,6 +34,8 @@
     youtube-dl
   ];
 
+  news.display = "show";
+
   imports = [
     ./bat.nix
     ./darwin.nix
