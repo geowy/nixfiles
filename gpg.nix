@@ -1,8 +1,4 @@
-{ pkgs, ... }:
 {
-  # TODO
-  programs.gpg = {
-    enable = false;
-  };
-  home.packages = [ pkgs.gnupg ];
+  # TODO: stop this needing `chmod 700 ~/.gnupg`
+  programs.gpg.enable = true;
 }
