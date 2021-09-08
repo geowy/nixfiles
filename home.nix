@@ -19,10 +19,10 @@
     ./neovim.nix
     ./packages.nix
     ./session.nix
+    ./ssh.nix
     ./zsh.nix
   ];
 
   # TODO: programs.gh
   # TODO: programs.gpg
-  # TODO: programs.ssh
 }
