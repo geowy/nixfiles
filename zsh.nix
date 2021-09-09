@@ -42,6 +42,6 @@
       . ${config.home.homeDirectory}/.nix-profile/etc/profile.d/nix.sh
     '';
 
-    initExtra = builtins.readFile ./config.zsh;
+    initExtra = builtins.readFile ./support/config.zsh;
   };
 }

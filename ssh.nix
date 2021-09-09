@@ -1,6 +1,6 @@
 {
   programs.ssh = {
     enable = true;
-    extraConfig = builtins.readFile ./vault/ssh/config.Agworld;
+    extraConfig = builtins.readFile ./vault/config.agworld.ssh;
   };
 }

@@ -27,6 +27,6 @@ in {
       vim-terraform
     ];
 
-    extraConfig = builtins.readFile ./config.vim;
+    extraConfig = builtins.readFile ./support/config.vim;
   };
 }
