@@ -14,6 +14,17 @@ in {
       ale
       ancient-colors-vim
       bclose-vim
+      coc-css
+      coc-emmet
+      coc-eslint
+      coc-git
+      coc-go
+      coc-html
+      coc-json
+      coc-nvim
+      coc-prettier
+      coc-solargraph
+      coc-yaml
       fzf-vim
       lf-vim
       matchit-zip

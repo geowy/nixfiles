@@ -30,6 +30,7 @@
     ruby
     shellcheck
     silver-searcher
+    solargraph
     tree
     universal-ctags
     youtube-dl
