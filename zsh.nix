@@ -19,6 +19,7 @@
     };
 
     shellAliases = {
+      agw = "~/Agworld/agw/agw";
       e = "$EDITOR";
       g = "git";
       ga = "git add";

@@ -1,6 +1,7 @@
 pkgs:
 with pkgs; vimUtils.buildVimPluginFrom2Nix {
-  name = "ancient-colors-vim";
+  pname = "ancient-colors-vim";
+  version = "67b031f";
 
   src = fetchFromGitHub {
     owner = "saalaa";

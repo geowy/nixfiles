@@ -3,7 +3,7 @@
     defaults = {
       "com.apple.dock" = {
         size-immutable = true;
-        tilesize = 64;
+        tilesize = 48;
       };
 
       "com.apple.Safari" = {

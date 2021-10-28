@@ -25,6 +25,7 @@
     go
     httpie
     jq
+    kubernetes
     lf
     ruby
     shellcheck
